@@ -1,0 +1,29 @@
+h1{
+    color:bisque ;
+    background-color: black;
+    font-size: 30px;
+    padding: 5px;
+    text-align: center;
+    text-emphasis-style: none;
+    border: 10px black;
+}
+p{
+    background-color: #cc8722;
+    padding: 10px;
+    text-align: justify;
+    font-family: FreeSerif;
+    font-size: 25px;
+    border: 10px beige;
+
+}
+h2{
+    color:bisque ;
+    background-color: #1c0804;
+    font-size: 30px;
+    padding: 5px;
+    text-align: center;
+    text-emphasis-style: none;
+    border: 10px black;
+}
+
+}
